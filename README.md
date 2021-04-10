@@ -27,10 +27,9 @@
 </br>
 <p align="center">
  <b>✨ My Portfolio ✨</b> </br> </br>
- <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yesfordev@gmail.com)](mailto:yesfordev@gmail.com)
-	
-
-
+ <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp 
+ 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yesfordev@gmail.com)](mailto:yesfordev@gmail.com)	
 </p>
 
 
