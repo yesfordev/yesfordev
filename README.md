@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=YoungEun%20Seo&fontSize=90&animation=fadeIn)
 
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesfordev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
 <p align="center">
   <b>Hi there 👋</b> </br>
   I'm Seo YoungEun, I want to be a full-stack developer.🌼 </br>
@@ -33,9 +27,18 @@
 </br>
 <p align="center">
  <b>✨ My Portfolio ✨</b> </br> </br>
- <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
+ <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yesfordev@gmail.com)](mailto:yesfordev@gmail.com)
+	
+
 
 </p>
+
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesfordev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=auto&height=200)
 
