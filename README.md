@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=YoungEun%20Seo&fontSize=90&animation=fadeIn)
 
 <p align="center">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesfordev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</p>
+
+<p align="center">
   <b>Hi there 👋</b> </br>
   I'm Seo YoungEun, I want to be a full-stack developer.🌼 </br>
   I like 🐈 🎤 🎶 💜 </br>
