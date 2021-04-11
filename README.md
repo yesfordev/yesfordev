@@ -27,7 +27,7 @@
 </br>
 <p align="center">
  <b>✨ My Portfolio ✨</b> </br> </br>
- <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp 
+ <a href="https://www.notion.so/2b8a59924dc74f0389175b1abe6aa2eb" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp 
 </p>
 </br>
 
