@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=YoungEun%20Seo&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&fontSize=90&animation=fadeIn)
 
 <p align="center">
   <b>Hi there 👋</b> </br>
