@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Hi there 👋</b> </br>
-  I'm Seo YoungEun, I want to be a full-stack developer.🌼 </br>
+  I'm yes, I want to be a full-stack developer.🌼 </br>
   I like 🐈 🎤 🎶 💜 </br>
   <br>
 </p>
