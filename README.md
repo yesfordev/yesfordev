@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Hi there 👋</b> </br>
- I want to be a full-stack developer.🌼 </br>
+  I'm Seo YoungEun, I want to be a full-stack developer.🌼 </br>
   I like 🐈 🎤 🎶 💜 </br>
   <br>
 </p>
@@ -22,6 +22,10 @@
 </p>
 
 </br>
+<p align="center">
+ <b>✨ My Portfolio ✨</b> </br> </br>
+ <a href="https://www.notion.so/2b8a59924dc74f0389175b1abe6aa2eb" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp 
+</p>
 </br>
 
 <div align=center>
